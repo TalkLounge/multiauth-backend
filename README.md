@@ -38,7 +38,6 @@ cd multiauth-backend
 npm install
 ```
 * Copy [.env.example](.env.example) to [.env](.env)
-<br>
 * Configure [.env](.env)
 * Create postgres database based on [.env](.env) POSTGRES_DATABASE
 ```
